@@ -1,0 +1,35 @@
+.logo-principal {
+    position: relative;
+    text-align: center;
+    background-color: #D2D600;
+}
+
+.pokemons {
+    width: 60%;
+    margin: 0px auto;
+    padding: 50px 0;
+
+}
+
+.pokemons li {
+    text-align: center;
+    display: inline-block;
+    border: 2px solid #000000;
+    padding: 2%;
+    margin: auto 50px 20px 30px;
+    
+}
+
+.descricao {
+    font-weight: bold;
+}
+
+.rodape {
+    text-align: center;
+    position: relative;
+    background-color: #000000;
+}
+
+.copyright {
+    color: #D2D600;
+}
